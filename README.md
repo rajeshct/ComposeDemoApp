@@ -11,7 +11,7 @@ This is a demo app in compose UI for Android. In this project you will know how 
 # Design
 For design part refer to Figma link https://www.figma.com/file/d7tblj7WMMMHv83wW5q5LO/Demo-Project?node-id=1%3A2&t=9r9PEdFfZ9OyKH76-1
 
-<img width="1205" alt="image" src="https://user-images.githubusercontent.com/5980603/213999325-30ed223e-000d-4712-991e-38b56559f33f.png">
+<img width="1215" alt="image" src="https://user-images.githubusercontent.com/5980603/214012322-df9f6f01-2476-4f4b-9bcc-d19e5210d1c3.png">
 
 # API
 Mock API used to make API call and process response 
