@@ -4,6 +4,7 @@ This is a demo app in compose UI for Android. In this project you will know how 
 # Project Flow
 - Single Activity with navigation screens.
 - MVVM architecture.
+- Use room database to save and fetch data.
 - Third party dependency integration.
 - Unit/Component testing.
  
